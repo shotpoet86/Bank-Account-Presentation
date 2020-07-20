@@ -1,0 +1,7 @@
+﻿namespace Presentation
+{
+    class BankAccount
+    {
+
+    }
+}
